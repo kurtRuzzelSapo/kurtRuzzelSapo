@@ -7,7 +7,7 @@ Committed to continuous learning and building applications that make a differenc
 ---
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kurtRuzzelSapo&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kurtRuzzelSapo&theme=aura-dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 

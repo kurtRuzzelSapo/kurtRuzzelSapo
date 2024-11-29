@@ -1,11 +1,13 @@
-# 👋 Hi, I'm Ruzz
+# 👋 Hi, I'm **Kurt Ruzzel Sapo**  
 
-## 💼 About Me
-I'm an **Aspiring Full-Stack Developer** focused on creating impactful solutions.  
-I strive for continuous learning and excellence, building applications that make a difference.
+### 💻 Aspiring Full-Stack Developer  
+Passionate about crafting impactful solutions.  
+Committed to continuous learning and building applications that make a difference.
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=kurtRuzzelSapo&theme=transparent&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)](https://git.io/streak-stats)  
 
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kurtRuzzelSapo&theme=transparent)](https://git.io/streak-stats)
+> *"Code with purpose. Build with passion."* ✨  

@@ -8,4 +8,4 @@ I strive for continuous learning and excellence, building applications that make
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kurtRuzzelSapo&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kurtRuzzelSapo&theme=transparent)](https://git.io/streak-stats)

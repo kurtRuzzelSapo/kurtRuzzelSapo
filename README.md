@@ -6,7 +6,7 @@ Committed to continuous learning and building applications that make a differenc
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kurtRuzzelSapo&theme=transparent&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=transparent&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)](https://git.io/streak-stats)  
 
 ---
 

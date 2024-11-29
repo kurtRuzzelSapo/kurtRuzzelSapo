@@ -6,6 +6,6 @@ I strive for continuous learning and excellence, building applications that make
 
 ---
 
-## 🔥 Contributions Streak
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kurtRuzzelSapo&theme=transparent&hide_border=true)](https://git.io/streak-stats)
